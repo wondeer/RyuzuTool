@@ -1,0 +1,12 @@
+E:\Desktop\VS\ResetApp\ResetApp\bin\Debug\ResetApp.exe.config
+E:\Desktop\VS\ResetApp\ResetApp\bin\Debug\ResetApp.exe
+E:\Desktop\VS\ResetApp\ResetApp\bin\Debug\ResetApp.pdb
+E:\Desktop\VS\ResetApp\ResetApp\bin\Debug\ResetApp.xml
+E:\Desktop\VS\ResetApp\ResetApp\obj\Debug\ResetApp.vbproj.AssemblyReference.cache
+E:\Desktop\VS\ResetApp\ResetApp\obj\Debug\ResetApp.vbproj.SuggestedBindingRedirects.cache
+E:\Desktop\VS\ResetApp\ResetApp\obj\Debug\ResetApp.Resources.resources
+E:\Desktop\VS\ResetApp\ResetApp\obj\Debug\ResetApp.vbproj.GenerateResource.cache
+E:\Desktop\VS\ResetApp\ResetApp\obj\Debug\ResetApp.vbproj.CoreCompileInputs.cache
+E:\Desktop\VS\ResetApp\ResetApp\obj\Debug\ResetApp.exe
+E:\Desktop\VS\ResetApp\ResetApp\obj\Debug\ResetApp.xml
+E:\Desktop\VS\ResetApp\ResetApp\obj\Debug\ResetApp.pdb

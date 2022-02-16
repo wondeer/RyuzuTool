@@ -1,0 +1,16 @@
+E:\Desktop\VS\DownloadManage\DownloadManage\bin\Debug\DownloadManage.exe.config
+E:\Desktop\VS\DownloadManage\DownloadManage\bin\Debug\DownloadManage.exe
+E:\Desktop\VS\DownloadManage\DownloadManage\bin\Debug\DownloadManage.pdb
+E:\Desktop\VS\DownloadManage\DownloadManage\bin\Debug\DownloadManage.xml
+E:\Desktop\VS\DownloadManage\DownloadManage\obj\Debug\DownloadManage.vbproj.AssemblyReference.cache
+E:\Desktop\VS\DownloadManage\DownloadManage\obj\Debug\DownloadManage.vbproj.SuggestedBindingRedirects.cache
+E:\Desktop\VS\DownloadManage\DownloadManage\obj\Debug\DownloadManage.Form1.resources
+E:\Desktop\VS\DownloadManage\DownloadManage\obj\Debug\DownloadManage.Resources.resources
+E:\Desktop\VS\DownloadManage\DownloadManage\obj\Debug\DownloadManage.vbproj.GenerateResource.cache
+E:\Desktop\VS\DownloadManage\DownloadManage\obj\Debug\DownloadManage.vbproj.CoreCompileInputs.cache
+E:\Desktop\VS\DownloadManage\DownloadManage\obj\Debug\DownloadManage.exe
+E:\Desktop\VS\DownloadManage\DownloadManage\obj\Debug\DownloadManage.xml
+E:\Desktop\VS\DownloadManage\DownloadManage\obj\Debug\DownloadManage.pdb
+E:\Desktop\VS\DownloadManage\DownloadManage\bin\Debug\DSAPI.dll
+E:\Desktop\VS\DownloadManage\DownloadManage\bin\Debug\DSAPI.xml
+E:\Desktop\VS\DownloadManage\DownloadManage\obj\Debug\DownloadManage.vbproj.CopyComplete
